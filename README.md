@@ -521,6 +521,6 @@ If you find this collection useful, please cite:
   title={Awesome RL for Reasoning in Large Language Models},
   author={Jiaqi Liu},
   year={2025},
-  url={https://github.com/**/Awesome-RL-Reasoning-LMs}
+  url={https://github.com/Jiaaqiliu/Awesome-RL-Reasoning-LMs}
 }
 ```
