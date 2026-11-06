@@ -117,6 +117,9 @@ Core papers that established the field of reinforcement learning for language mo
   *Step-wise GRPO for multimodal mathematical reasoning, 73.5% on MathVista*
 
 ### Agent-Based R1 Systems
+- **ToolMaster: Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction** - [arXiv:2601.12762](https://arxiv.org/abs/2601.12762) *(arXiv 2026)*  
+  *Tool learning by trial and execution: the agent explores tools and self-corrects through environment interaction; SFT followed by RL (GRPO). [Code](https://github.com/NEUIR/ToolMaster)*
+
 - **WebAgent-R1: Training Web Agents via End-to-End Multi-Turn RL** - [arXiv:2505.16421](https://arxiv.org/abs/2505.16421) *(arXiv 2025)*  
   *Web navigation: Qwen-2.5-3B: 6.1% → 33.9%, Llama-3.1-8B: 8.5% → 44.8% success rates*
 
